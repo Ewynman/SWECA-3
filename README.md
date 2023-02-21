@@ -51,7 +51,7 @@ Each branch includes the code and files from the main branch.
 - [@joyce41101](https://github.com/joyce41101) - Idea & Initial work
 - [@thaithaon](https://github.com/thaithaon) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+See also the list of [contributors]([https://github.com/kylelobo/The-Documentation-Compendium/contributors](https://github.com/Ewynman/SWECA-3/pulse)) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
