@@ -31,9 +31,9 @@ Write about 1-2 paragraphs describing the purpose of your project.
 
 
 
-## 🚀 Deployment <a name = "deployment"></a>
+## 🚀 Brances <a name = "deployment"></a>
 
-Add additional notes about how to deploy this on a live system.
+This repostory has a list of brances:
 
 
 ## ✍️ Authors <a name = "authors"></a>
