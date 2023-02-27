@@ -25,7 +25,9 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+The purpose of this project is to showcase how a team of developers can collaborate and work on a project using Git and GitHub. By creating different branches and assigning tasks to each team member, the project demonstrates how multiple contributors can work on the same codebase without interfering with each other's work.
+
+The use of a README file also provides clear instructions and documentation for anyone who wishes to contribute or use the code in the repository. This project serves as an example of how to use Git and GitHub to collaborate effectively and efficiently on software development projects.
 
 
 
@@ -34,6 +36,12 @@ Write about 1-2 paragraphs describing the purpose of your project.
 ## 🚀 Brances <a name = "deployment"></a>
 
 This repostory has a list of brances:
+- Eddie
+- Mike
+- Joyce
+- ThaiThao
+
+Each branch includes the code and files from the main branch. 
 
 
 ## ✍️ Authors <a name = "authors"></a>
@@ -43,7 +51,7 @@ This repostory has a list of brances:
 - [@joyce41101](https://github.com/joyce41101) - Idea & Initial work
 - [@thaithaon](https://github.com/thaithaon) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+See also the list of [contributors]([https://github.com/kylelobo/The-Documentation-Compendium/contributors](https://github.com/Ewynman/SWECA-3/pulse)) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
